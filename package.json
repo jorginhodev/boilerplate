@@ -40,7 +40,7 @@
     "@types/jest": "^26.0.23",
     "@testing-library/react": "^11.2.7",
     "@types/react": "^17.0.11",
-    "@types/node": "^15.12.2",
+    "@types/node": "^15.12.4",
     "@types/styled-components": "^5.1.10",
     "@typescript-eslint/parser": "^4.27.0",
     "@typescript-eslint/eslint-plugin": "^4.27.0",
